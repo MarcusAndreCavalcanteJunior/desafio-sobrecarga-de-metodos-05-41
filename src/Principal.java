@@ -21,7 +21,6 @@ public class Principal {
 }
 /* Aprendi nesse desafio que var aplicado ao desafio de sobrecarga de
 métodos
-
 var só se aplica a variáveis locais (declaradas dentro de métodos), nunca
 a atributos de classe, parâmetros de metodo (fora de casos específicos)
 ou tipos de retorno.
